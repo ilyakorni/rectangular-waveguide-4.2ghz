@@ -1,0 +1,36 @@
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# SolidWorks Temporary & Backup Files
+~$*
+*.bak
+*.swp
+*.tmp
+*.[bB][aA][kK]
+*.[sS][wW][pP]
+
+# CST Studio Suite Cache, Results & Backup Files
+*.bak-ms
+*.bak-ts
+*.log
+*.rex
+*.des
+*^*.cst
+Cache/
+Result/
+Subprojects/
+Run/
+temp/
+
+# Mathcad & SMath Temporary Files
+*.mcd~
+*.xmcd~
+*.sm~
+*.bak_*
