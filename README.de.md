@@ -107,7 +107,10 @@ Die simulierte Kopplungsimpedanz $Z_{21} \approx 509{,}5\ \Omega$ weist eine hoh
 
 Copyright (c) 2026 Ilya Kornilov
 
-Diese Quelle beschreibt offene Hardware (Open Hardware) und ist unter der CERN-OHL-P v2 lizenziert. 
-Sie dürfen diese Quelle unter den Bedingungen der CERN-OHL-P v2 (https://cern.ch/cern-ohl) weitergeben, modifizieren und Produkte darauf basierend herstellen.
+Diese Quelle beschreibt Open Hardware (offene Hardware) und ist unter der CERN-OHL-P v2 lizenziert. 
+Sie dürfen diese Quelle unter den Bedingungen der CERN-OHL-P v2 (https://cern.ch/cern-ohl) 
+weiterverbreiten, modifizieren und Produkte auf deren Grundlage herstellen.
 
-Diese Quelle wird OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG bereitgestellt, EINSCHLIESSLICH DER MARKTGÄNGIGKEIT, ZUFRIEDENSTELLENDEN QUALITÄT UND EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. Gültige Bedingungen entnehmen Sie bitte der CERN-OHL-P v2.
+Diese Quelle wird OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG vertrieben, 
+EINSCHLIESSLICH DER GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, ZUFRIEDENSTELLENDEN QUALITÄT ODER EIGNUNG 
+FÜR EINEN BESTIMMTEN ZWECK. Die geltenden Bedingungen entnehmen Sie bitte der CERN-OHL-P v2.
